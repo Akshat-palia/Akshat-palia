@@ -12,7 +12,7 @@
 
 
 ###  - 🌱 I’m currently diving deep into **Data Analytics and Database Technologies**  
-Focused on using data to solve real-world problems and support smarter business decisions.
+
 
 
 ###  - 🏅 Achievements  - 💼 Completed **3 Virtual Job Simulation Internships**:  
@@ -28,7 +28,7 @@ Focused on using data to solve real-world problems and support smarter business 
   </a>
 </p>
 
-- 📊 Gained hands-on experience in business analytics, client reporting, and decision-making frameworks.
+###  - 📊 Gained hands-on experience in business analytics, client reporting, and decision-making frameworks.
 
 
 ### - 💬 Ask me about  **Data Analytics**, **Business Intelligence**, **SQL**, **Power BI**, **Data Engineering Pipelines**
@@ -37,8 +37,8 @@ Focused on using data to solve real-world problems and support smarter business 
 ### 📫 Reach out to me  📧 **akshatpalia@gmail.com**
 
 ### ⚡ About me ...I'm a **Computer Science student** based in **Pune** 👨‍💻  
-While I started coding out of curiosity, I quickly realized my passion lies in making sense of data.  
-Now, I love turning messy datasets into meaningful insights — it’s like solving real-world puzzles with logic and code! 🧩📊
+### While I started coding out of curiosity, I quickly realized my passion lies in making sense of data.  
+### Now, I love turning messy datasets into meaningful insights — it’s like solving real-world puzzles with logic and code! 🧩📊
 
 <h3 align="left">Connect with me: 😎👋</h3>
 <p align="left">
