@@ -32,7 +32,7 @@ Focused on using data to solve real-world problems and support smarter business 
 **Data Analytics**, **Business Intelligence**, **SQL**, **Power BI**, **Data Engineering Pipelines**
 
 ### 📫 Reach out to me  
-📧 **akshatpalia@gmail.com** *(replace with your actual email)*
+📧 **akshatpalia@gmail.com**
 
 ### ⚡ About me  
 I'm a **Computer Science student** based in **Pune** 👨‍💻  
@@ -56,7 +56,12 @@ Now, I love turning messy datasets into meaningful insights — it’s like solv
 
 ### Certifications:
 
-<p align="center"> <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/50714c7a-3215-422e-956e-ef5fa166dfe6" height="100" width="100">  <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/0553da08-806d-4f88-8250-07da4fb66e31" height="100" width="100"> <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/dedf25bc-c184-4bde-b4d8-28d359efdb0b" height="100" width="100">  <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/c46f1f64-59c8-4702-99fc-308081d8fc47" height="100" width="100"> </p>
+<p align="center"> 
+  <img src="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_6bLfdiuajhno2Kamh_1746554561384_completion_certificate.pdf" height="100" width="100">  
+  <img src="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6bLfdiuajhno2Kamh_1746728033261_completion_certificate.pdf" height="100" width="100"> 
+  <img src="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6bLfdiuajhno2Kamh_1746297380293_completion_certificate.pdf" height="100" width="100">  
+  <img src="https://www.linkedin.com/learning/certificates/146c4b7c8ef2b1f0af084f9079f50ecf6a5d1f3546d1a0034eaec600362c77e8?trk=share_certificate" height="100" width="100"> 
+</p>
 
 #### Technical Skills:
 
