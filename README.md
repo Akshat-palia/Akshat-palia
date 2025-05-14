@@ -7,7 +7,6 @@
 
 ### 🌱 I’m currently diving deep into **Data Analytics and Database Technologies**  
 Focused on using data to solve real-world problems and support smarter business decisions.
-
 ### 🏅 Achievements  
 - 💼 Completed **3 Virtual Job Simulation Internships**:  
   <p align="left">
@@ -16,18 +15,16 @@ Focused on using data to solve real-world problems and support smarter business 
     </a>
     &nbsp;&nbsp;
     <a href="https://www2.deloitte.com/" target="blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Deloitte_Logo.png" alt="Deloitte" height="30" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg" alt="Deloitte" height="30" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.tata.com/" target="blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Tata_Group_logo.svg" alt="Tata" height="30" />
+    <a href="https://www.tcs.com/" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/TATA_Consultancy_Services_Logo_blue.svg" alt="TCS" height="30" />
     </a>
   </p>
 
 - 📊 Gained hands-on experience in business analytics, client reporting, and decision-making frameworks
 
-
-- 📊 Gained hands-on experience in business analytics, client reporting, and decision-making frameworks
 
 ### 💬 Ask me about  
 **Data Analytics**, **Business Intelligence**, **SQL**, **Power BI**, **Data Engineering Pipelines**
