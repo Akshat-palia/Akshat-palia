@@ -34,9 +34,9 @@
 ### - 💬 Ask me about  **Data Analytics**, **Business Intelligence**, **SQL**, **Power BI**, **Data Engineering Pipelines**
 
 
-### 📫 Reach out to me  📧 **akshatpalia@gmail.com**
+### - 📫 Reach out to me  📧 **akshatpalia@gmail.com**
 
-### ⚡ About me ...I'm a **Computer Science student** based in **Pune** 👨‍💻 While I started coding out of curiosity, I quickly realized my passion lies in making sense of data. Now, I love turning messy datasets into meaningful insights — it’s like solving real-world puzzles with logic and code! 🧩📊
+### - ⚡ About me ...I'm a Computer Science student based in Pune 👨‍💻 While I started coding out of curiosity, I quickly realized my passion lies in making sense of data. Now, I love turning messy datasets into meaningful insights — it’s like solving real-world puzzles with logic and code! 🧩📊
 
 <h3 align="left">Connect with me: 😎👋</h3>
 <p align="left">
