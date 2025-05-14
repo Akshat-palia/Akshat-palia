@@ -10,7 +10,20 @@ Focused on using data to solve real-world problems and support smarter business 
 
 ### 🏅 Achievements  
 - 💼 Completed **3 Virtual Job Simulation Internships**:  
-  **Accenture**, **Deloitte**, and **Tata Group**  
+  <p align="left">
+    <a href="https://www.accenture.com/" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Accenture-logo.png" alt="Accenture" height="30" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www2.deloitte.com/" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Deloitte_Logo.png" alt="Deloitte" height="30" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.tata.com/" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Tata_Group_logo.svg" alt="Tata" height="30" />
+    </a>
+  </p>
+
 - 📊 Gained hands-on experience in business analytics, client reporting, and decision-making frameworks
 
 ### 💬 Ask me about  
