@@ -11,12 +11,11 @@
 </p>
 
 
-### 🌱 I’m currently diving deep into **Data Analytics and Database Technologies**  
+###  - 🌱 I’m currently diving deep into **Data Analytics and Database Technologies**  
 Focused on using data to solve real-world problems and support smarter business decisions.
 
 
-### 🏅 Achievements  
-- 💼 Completed **3 Virtual Job Simulation Internships**:  
+###  - 🏅 Achievements  - 💼 Completed **3 Virtual Job Simulation Internships**:  
 <p align="left">
   <a href="https://www.accenture.com/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" alt="Accenture" height="35" />
@@ -32,15 +31,12 @@ Focused on using data to solve real-world problems and support smarter business 
 - 📊 Gained hands-on experience in business analytics, client reporting, and decision-making frameworks.
 
 
-### 💬 Ask me about  
-**Data Analytics**, **Business Intelligence**, **SQL**, **Power BI**, **Data Engineering Pipelines**
+### - 💬 Ask me about  **Data Analytics**, **Business Intelligence**, **SQL**, **Power BI**, **Data Engineering Pipelines**
 
 
-### 📫 Reach out to me  
-📧 **akshatpalia@gmail.com**
+### 📫 Reach out to me  📧 **akshatpalia@gmail.com**
 
-### ⚡ About me  
-I'm a **Computer Science student** based in **Pune** 👨‍💻  
+### ⚡ About me ...I'm a **Computer Science student** based in **Pune** 👨‍💻  
 While I started coding out of curiosity, I quickly realized my passion lies in making sense of data.  
 Now, I love turning messy datasets into meaningful insights — it’s like solving real-world puzzles with logic and code! 🧩📊
 
